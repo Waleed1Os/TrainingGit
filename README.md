@@ -1,2 +1,2 @@
 Learning Git on this repo
-v1
+v1.0
